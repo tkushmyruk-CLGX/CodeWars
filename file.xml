@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <Provider/>
+    <ZRef/>
+    <SubjectTotalCount>0</SubjectTotalCount>
+    <Header>
+        <OrderRefID>1715505</OrderRefID>
+    </Header>
+    <Status>
+        <StatusKey>300</StatusKey>
+        <StatusType>FAILURE</StatusType>
+        <StatusMessage>General error</StatusMessage>
+    </Status>
+</response>
